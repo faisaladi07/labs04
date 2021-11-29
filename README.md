@@ -7,8 +7,7 @@
 ```python 
 print daftar =[]
 ```
-    Berikut programnya dalam python :
-<p>
+   <p> Berikut programnya dalam python :<p>
 
 ![gambar1](ss/programL.png)
 
@@ -62,4 +61,4 @@ print ( "merubah elemen ke sampai elemen terakhir:" , list )
 ```
 <p>Berikut hasil programnya :<p>
 
-![gambar 2](ss/hasilL)
+![gambar 2](ss/hasilL.png)
