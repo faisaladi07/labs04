@@ -3,9 +3,9 @@
 <p>Latihan membuat daftar dengan menulis :
 
 
-'''python 
+```python 
 print daftar =[]
-'''
+```
 
 Berikut programnya dalam python :<p>
 
