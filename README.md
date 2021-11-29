@@ -3,8 +3,11 @@
 <p>Latihan membuat daftar dengan menulis :
 
 
-daftar =[]
+'''python 
+print daftar =[]
+'''
 
 Berikut programnya dalam python :<p>
 
 ![gambar1](ss/programL.png)
+
