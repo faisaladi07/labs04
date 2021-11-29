@@ -3,8 +3,8 @@
 <p>Latihan membuat daftar dengan menulis :
 
 
-daftar =[] 
+daftar =[]
 
 Berikut programnya dalam python :<p>
 
-![gambar1](programL.png)
+![gambar1](labs04/programL.png)
