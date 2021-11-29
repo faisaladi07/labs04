@@ -7,4 +7,4 @@ daftar =[]
 
 Berikut programnya dalam python :<p>
 
-![gambar1](labs04/programL.png)
+![gambar1](ss/programL.png)
